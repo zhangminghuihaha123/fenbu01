@@ -35,4 +35,12 @@ public class UserController {
         QueryWrapper wrapper=new QueryWrapper();
         return userMapper.selectList(wrapper);
     }
+    
+    
+    @GetMapping("/{user}")
+    public Integer panduanUser(@PathVariable String user){
+        return userMapper.panduan(user);
+    }
+
+
 }

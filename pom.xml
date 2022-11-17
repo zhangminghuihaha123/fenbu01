@@ -11,6 +11,7 @@
     <modules>
         <module>service_main</module>
         <module>service_user</module>
+        <module>service_goods</module>
     </modules>
     <name>fenbu01</name>
     <description>Demo project for Spring Boot</description>

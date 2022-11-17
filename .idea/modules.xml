@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fenbu01.iml" filepath="$PROJECT_DIR$/.idea/fenbu01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_goods/service_goods.iml" filepath="$PROJECT_DIR$/service_goods/service_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_main/service_main.iml" filepath="$PROJECT_DIR$/service_main/service_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_user/service_user.iml" filepath="$PROJECT_DIR$/service_user/service_user.iml" />
+    </modules>
+  </component>
+</project>
